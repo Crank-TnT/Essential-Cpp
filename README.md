@@ -1,2 +1,2 @@
 # Essential-Cpp
-Personal practice about Essential C++ 
+Personal learning about Essential C++ 
